@@ -1,1 +1,1 @@
-# Pandas_exercises_1
+# I uploud some Pandas quests for begginers
